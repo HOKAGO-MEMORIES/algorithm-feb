@@ -17,7 +17,7 @@
 | 이름 | GitHub ID | 백준 ID | 한마디 |
 |:---:|:---:|:---:|:---:|
 | **김용휘** | [@HOKAGO-MEMORIES](https://github.com/HOKAGO-MEMORIES) | [line123](https://www.acmicpc.net/user/line123) | 내일 세상이 무너져도 알고 1문제를 풀겠다 |
-| **김대호** | [@GithubID](https://github.com/GithubID) | <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> | 꼼꼼하게 풀기 |
+| **김대호** | [@HodaeSsi](https://github.com/HodaeSsi) | [zz4471](https://www.acmicpc.net/user/zz4471) | 꼼꼼하게 풀기 |
 | **방지섭** | [@GithubID](https://github.com/GithubID) | <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/> | 효율성 끝판왕 |
 | **전병현** | [@2p31-1](https://github.com/2p31-1) | [2147483647](https://www.acmicpc.net/user/2147483647) | Java 마스터하기 |
 | **조성혁** | [@whqtker](https://github.com/whqtker) | [chosh2001](https://www.acmicpc.net/user/chosh2001) | 포기하지 말자 |
