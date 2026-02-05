@@ -82,7 +82,8 @@ algorithm-feb
 | **2일차 (화)** | 아름다운 행렬 | 골드 III | https://www.acmicpc.net/problem/2829 |
 | **3일차 (수)** | 흩날리는 시험지 속에서 내 평점이 느껴진거야 | 골드 III | https://www.acmicpc.net/problem/17951 |
 | **4일차 (목)** | 어려운 모든 정점 쌍 최단 거리 | 골드 IV | https://www.acmicpc.net/problem/23324 |
-| **5일차 (금)** | 문제명 5 | 골드 | https://www.acmicpc.net/problem/번호 |
+| **5일차 (금)** | 카드 게임 | 골드 III | https://www.acmicpc.net/problem/11062 |
+| **스터디** | 도로검문 | 골드 I | https://www.acmicpc.net/problem/2307 |
 
 ---
 
