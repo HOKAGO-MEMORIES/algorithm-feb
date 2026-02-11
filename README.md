@@ -96,6 +96,7 @@ algorithm-feb
 | **8일차 (수)** | 키 순서 | 골드 IV | https://www.acmicpc.net/problem/2458 |
 | **9일차 (목)** | 문제명 4 | D4 | https://www.acmicpc.net/problem/문제번호 |
 | **10일차 (금)** | 문제명 5 | D4 | https://www.acmicpc.net/problem/문제번호 |
+| **스터디** | 벚꽃 내리는 시대에 결투를 | 골드 I | https://www.acmicpc.net/problem/27163 |
 
 ---
 
