@@ -106,7 +106,7 @@ algorithm-feb
 |:--:|:--|:--:|:--|
 | **설** | **연** | **휴** | **!** |
 | **11일차** | 고양이 목에 리본 달기 | 골드 III | https://www.acmicpc.net/problem/26093 |
-| **12일차** | 문제명 5 | 골드 | 링크 |
+| **12일차** | 빵집 | 골드 II | https://www.acmicpc.net/problem/3109 |
 
 ---
 
